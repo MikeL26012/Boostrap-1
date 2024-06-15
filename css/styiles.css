@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    padding: 2em;
+}
+
+h1{
+    color: white;
+    float: left;
+
+
+}
+
+.row{
+    padding: 1rem;
+}
+
+.cajaBorde{
+    border: #FF266E solid;
+    height: 200px;
+}
